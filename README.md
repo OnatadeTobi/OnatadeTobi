@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onatadetobi&label=Profile%20views&color=0e75b6&style=flat" alt="onatadetobi" /> </p>
 
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [Lifeline](https://github.com/OnatadeTobi/lifeline)
-
 - 🌱 I’m currently learning **FastAPI**
-
 - 💬 Ask me about **Python, Django**
-
 - ⚡ Fun fact **I will make it.**
 
 <h3 align="left">Connect with me:</h3>
