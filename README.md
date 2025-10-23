@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onatadetobi&label=Profile%20views&color=0e75b6&style=flat" alt="onatadetobi" /> </p>
 
-- 🔭 I’m currently working on [Lifeline](github.com/OnatadeTobi/lifeline)
+- 🔭 I’m currently working on [Lifeline](/lifeline)
 
 - 🌱 I’m currently learning **FastAPI**
 
